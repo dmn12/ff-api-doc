@@ -43,8 +43,8 @@
         "reference": "参考",
     },
     menu: [
-        {"name": "任务类型1", "_child": [{"ids": [1, 2], "name": "任务阶段1"},]},
-        {"name": "任务类型2", "_child": [{"ids": [3, 4], "name": "任务阶段3"},]},
+        {"name": "任务类型1", "_child": [{"pts_token": "xx_xxx", "name": "任务阶段1"},]},
+        {"name": "任务类型2", "_child": [{"pts_token": "xx_xxx", "name": "任务阶段3"},]},
     ]
 }
 ```
